@@ -1,0 +1,27 @@
+{
+&quot;name&quot;: &quot;SmartShop E-commerce&quot;,
+&quot;short_name&quot;: &quot;SmartShop&quot;,
+&quot;description&quot;: &quot;Online shopping platform for electronics, clothes and accessories&quot;,
+&quot;start_url&quot;: &quot;index.html&quot;,
+&quot;display&quot;: &quot;standalone&quot;,
+&quot;background_color&quot;: &quot;#ffffff&quot;,
+&quot;theme_color&quot;: &quot;#ff6600&quot;,
+&quot;orientation&quot;: &quot;portrait&quot;,
+&quot;icons&quot;: [
+{
+&quot;src&quot;: &quot;icons/icon-72.png&quot;,
+&quot;sizes&quot;: &quot;72x72&quot;,
+&quot;type&quot;: &quot;image/png&quot;
+},
+{
+&quot;src&quot;: &quot;icons/icon-192.png&quot;,
+&quot;sizes&quot;: &quot;192x192&quot;,
+&quot;type&quot;: &quot;image/png&quot;
+},
+{
+&quot;src&quot;: &quot;icons/icon-512.png&quot;,
+&quot;sizes&quot;: &quot;512x512&quot;,
+&quot;type&quot;: &quot;image/png&quot;
+}
+]
+}
